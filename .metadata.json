@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "mosmafs",
+    "oncran": true
+  }
+]
